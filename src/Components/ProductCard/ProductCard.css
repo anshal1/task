@@ -1,0 +1,114 @@
+@media only screen and (max-width: 900px) {
+    .main_product_card{
+        width: 9rem;
+        height: fit-content;
+        background-color: white;
+        border-radius: 5px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        opacity: 1;
+        transition: all 400ms;
+        overflow: hidden;
+    }
+    .product_image{
+        width: 100%;
+        height: 8rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: none;
+    }
+    .product_image p{
+        font-size: 15px;
+        font-weight: 600;
+        color: rgba(128, 128, 128, .4);
+    }
+    .product_name{
+        width: 80%;
+        height: fit-content;
+    }
+    .product_name p{
+        font-size: 12px;
+        font-weight: 600;
+        color: rgb(99, 99, 99);
+        text-align: center;
+    }
+}
+@media only screen and (min-width: 900px) and (max-width: 1000px) {
+    .main_product_card{
+        width: 9rem;
+        height: fit-content;
+        background-color: white;
+        border-radius: 5px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        opacity: 1;
+        transition: all 400ms;
+        overflow: hidden;
+    }
+    .product_image{
+        width: 100%;
+        height: 8rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: none;
+    }
+    .product_image p{
+        font-size: 15px;
+        font-weight: 600;
+        color: rgba(128, 128, 128, .4);
+    }
+    .product_name{
+        width: 80%;
+        height: fit-content;
+    }
+    .product_name p{
+        font-size: 12px;
+        font-weight: 600;
+        color: rgb(99, 99, 99);
+        text-align: center;
+    }
+}
+@media only screen  and (min-width: 1000px) {
+    .main_product_card{
+        width: 9rem;
+        height: fit-content;
+        background-color: white;
+        border-radius: 5px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        opacity: 1;
+        transition: all 400ms;
+        overflow: hidden;
+    }
+    .product_image{
+        width: 100%;
+        height: 8rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: none;
+    }
+    .product_image p{
+        font-size: 15px;
+        font-weight: 600;
+        color: rgba(128, 128, 128, .4);
+    }
+    .product_name{
+        width: 80%;
+        height: fit-content;
+    }
+    .product_name p{
+        font-size: 12px;
+        font-weight: 600;
+        color: rgb(99, 99, 99);
+        text-align: center;
+    }
+}
