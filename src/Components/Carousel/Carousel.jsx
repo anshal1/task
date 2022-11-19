@@ -22,6 +22,7 @@ const Carousel = () => {
         setimage(Images[counter]);
       }, 500);
     }, 5000);
+    // eslint-disable-next-line 
   }, []);
   return (
     <div className="main_carousel_container">
